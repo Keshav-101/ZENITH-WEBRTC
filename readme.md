@@ -261,8 +261,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👨‍💻 Author
 
 - Keshav Choudhary
-- GitHub: [@Keshav-101] (https://github.com/Keshav-101)
-- LinkedIn: [Keshav choudhary] (https://www.linkedin.com/in/keshav-choudhary-746a63248/)
+- GitHub: [@Keshav-101](https://github.com/Keshav-101)
+- LinkedIn: [Keshav choudhary](https://www.linkedin.com/in/keshav-choudhary-746a63248/)
   
 ## 🙏 Acknowledgments
 
